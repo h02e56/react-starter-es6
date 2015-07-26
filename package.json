@@ -47,6 +47,5 @@
     "tape": "2.3.3",
     "uglify": "~0.1.5"
   },
-  "private": "false",
   "license": "MIT"
 }
